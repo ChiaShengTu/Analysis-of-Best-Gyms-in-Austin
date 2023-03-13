@@ -1,4 +1,4 @@
-# Group 2 Final Project Report
+# Group 2 Austin's Leading Fitness Center Analysis
 
 ## Goal
 
